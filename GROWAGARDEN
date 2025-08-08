@@ -1,3 +1,2 @@
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/huJkrt6v0jhzPlpf/raw", true))()
-local Spawner = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
-Spawner.Load()
+local Spawner = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()Spawner.Load()
